@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Ata.</h3>
+
+- I am a student of the department of Management Information Systems at Tarsus University. I'm interested in game development and I'm currently learning Unity.
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCdsMXtltS0MJLhb_S6HxFjQ">Youtube</a> •
+  <a href="https://www.linkedin.com/in/ata-dikmen-351a11234/">LinkedIn</a>
+</p>
+
+
 
 <!--
 **AtaDikmen/AtaDikmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
