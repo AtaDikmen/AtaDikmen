@@ -1,3 +1,6 @@
+![_9fbad698-adfb-43ed-a27b-285ac7bfb199](https://github.com/AtaDikmen/AtaDikmen/assets/103599799/7079d861-688a-4782-a153-843b0a833445)
+
+
 <h3 align="center">👋 Hello! I'm Ata.</h3>
 
 - I'm a student of the department of Management Information Systems at Tarsus University.
@@ -35,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
