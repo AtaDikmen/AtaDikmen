@@ -6,13 +6,14 @@
 
 <h3 align="center">👋 Hello! I'm Ata.</h3>
 
-- I'm a student of the department of Management Information Systems at Tarsus University.
+- I'm a senior student of the department of Management Information Systems at Tarsus University.
 - I'm interested in game development and I'm currently learning Unity.
-- I'm trying to be a Game Developer.
+- I'm working on various game projects to enhance my skills.
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCdsMXtltS0MJLhb_S6HxFjQ">Youtube</a> •
-  <a href="https://www.linkedin.com/in/ata-dikmen-351a11234/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ata-dikmen-351a11234/">LinkedIn</a> •
+  <a href="https://atadk.itch.io/">Itch.io</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
