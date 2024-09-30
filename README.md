@@ -1,7 +1,7 @@
 ![_9fbad698-adfb-43ed-a27b-285ac7bfb199](https://github.com/AtaDikmen/AtaDikmen/assets/103599799/7079d861-688a-4782-a153-843b0a833445)
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Jr.%20Game%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=258edd&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Game%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=258edd&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">👋 Hello! I'm Ata.</h3>
