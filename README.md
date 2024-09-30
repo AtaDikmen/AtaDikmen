@@ -6,7 +6,7 @@
 
 <h3 align="center">👋 Hello! I'm Ata.</h3>
 
-- I'm a senior student of the department of Management Information Systems at Tarsus University.
+- I graduated from the department of Management Information Systems at Tarsus University.
 - I'm interested in game development and I'm currently learning Unity.
 - I'm working on various game projects to enhance my skills.
 
