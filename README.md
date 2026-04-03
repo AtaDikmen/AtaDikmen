@@ -6,7 +6,7 @@
 
 <h3 align="center">👋 Hello! I'm Ata.</h3>
 
-- I'm a Game Developer at **@BlayGames**
+- I'm a Game Developer
 - I'm working on various game projects to enhance my skills.
 
 <p align="center">
